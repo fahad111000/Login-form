@@ -19,7 +19,7 @@ body {
 
 .col-1 {
     width: 50%;
-    background-image: url(./images/vector.jpg);
+    background-image: url(../images/vector.jpg);
     background-position: center;
     background-size: cover;
 
