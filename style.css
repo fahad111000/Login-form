@@ -22,6 +22,8 @@ body {
     background-image: url("./images/vector.jpg");
     background-position: center;
     background-size: cover;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
 
 }
 
@@ -43,7 +45,7 @@ body {
 
 
 .heading h1 {
-    font-size: 50px;
+    font-size: 40px;
     padding: 10px;
     margin: 50% 0 50% 5%;
     color: #fff;
@@ -58,7 +60,7 @@ body {
 }
 
 .login-form .login span {
-    color: rgba(154, 157, 158, 0.541);
+    color: rgba(119, 119, 119, 0.733);
     font-size: 12px;
 }
 
@@ -70,7 +72,7 @@ body {
 }
 
 .login-form label {
-    color: rgb(185, 186, 187);
+    color: rgba(119, 119, 119, 0.733);
     font-size: 13px;
     padding: 0 0 8px;
 }
