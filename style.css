@@ -126,6 +126,11 @@ input[type="checkbox"] {
     background-color: rgba(21, 40, 80, 255);
 }
 
+.btn:hover{
+    background-color: rgba(10, 40, 90, 295);
+
+}
+
 .users {
     margin-bottom: 20px;
 }
